@@ -3,7 +3,6 @@ import {BrowserRouter as Router , Route} from 'react-router-dom'
 import Signup from './Pages/Signup'
 import Login from './Pages/Login'
 import Create from './Pages/Create'
-import view from './Pages/ViewPost'
 import{ AuthContext, FirebaseContext } from './store/Context'
 import Post from './store/postContext'
 import './App.css';
