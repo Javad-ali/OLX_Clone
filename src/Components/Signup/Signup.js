@@ -81,7 +81,7 @@ export default function Signup() {
           <br />
           <button onClick={()=>history.push('/signup')}>Signup</button>
         </form>
-        <a>Login</a>
+        <p>Login</p>
       </div>
     </div>
   );

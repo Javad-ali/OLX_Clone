@@ -51,9 +51,9 @@ function Login() {
           <button>Login</button>
         </form>
         
-        <a onClick={()=>{
+        <p onClick={()=>{
           history.push('/signup')
-        }}>Signup</a>
+        }}>Signup</p>
       </div>
     </div>
   );
